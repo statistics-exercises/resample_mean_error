@@ -18,7 +18,7 @@ def limit(n,m) :
   # upper = the 95th percentile of the distribution for the sample mean
   return lower, median, upper 
   
-print( liimit(10,100) )
-print( liimit(10,100) )
-print( liimit(10,100) )
-print( liimit(10,100) )
+print( limit(10,100) )
+print( limit(10,100) )
+print( limit(10,100) )
+print( limit(10,100) )
